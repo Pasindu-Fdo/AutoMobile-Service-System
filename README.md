@@ -13,9 +13,9 @@ The AutoMobile Project is a vehicle management system for service centers, handl
 **Responsive UI:** Developed using Bootstrap 5, ensuring a modern and responsive design across all devices.<br>
 
 # Technology Stack
-Frontend: HTML, CSS, JavaScript (Bootstrap 5 for responsive design)<br>
-Backend: PHP<br>
-Database: MySQL<br>
-Real-Time Updates: AJAX for live updates and suggestions.<br>
-File Handling: Image upload and cropping functionality with Cropper.js<br>
-Version Control: Git and GitHub for project management and collaboration.<br>
+**Frontend:**   HTML, CSS, JavaScript (Bootstrap 5 for responsive design)<br>
+**Backend:**   PHP<br>
+**Database:**   MySQL<br>
+**Real-Time Updates:**   AJAX for live updates and suggestions.<br>
+**File Handling:**   Image upload and cropping functionality with Cropper.js<br>
+**Version Control:**   Git and GitHub for project management and collaboration.<br>
