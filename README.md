@@ -21,6 +21,6 @@ The AutoMobile Project is a vehicle management system for service centers, handl
 **Version Control:**   Git and GitHub for project management and collaboration.<br>
 
 # Setup & Installation
-Rename the root folder as AutoMobile Project<br>
-Create the database with the name cras_auto<br>
-Import the database file included<br>
+**1.**   Rename the root folder as AutoMobile Project<br>
+**2.**   Create the database with the name cras_auto<br>
+**3.**   Import the database file included<br>
