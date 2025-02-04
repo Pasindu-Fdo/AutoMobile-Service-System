@@ -19,3 +19,8 @@ The AutoMobile Project is a vehicle management system for service centers, handl
 **Real-Time Updates:**   AJAX for live updates and suggestions.<br>
 **File Handling:**   Image upload and cropping functionality with Cropper.js<br>
 **Version Control:**   Git and GitHub for project management and collaboration.<br>
+
+# Setup & Installation
+Rename the root folder as AutoMobile Project<br>
+Create the database with the name cras_auto<br>
+Import the database file included<br>
